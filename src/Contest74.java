@@ -26,7 +26,7 @@ public class Contest74 {
             for (int j = 0; j < word.length(); j++) {
                 char c = word.charAt(j);
                 for (int i = 0; i < S.length(); i++) {
-                    
+                    char c1 = S.charAt(i);
                 }
                 String s = String.valueOf(c);
                 if (!S.contains(s)) {
